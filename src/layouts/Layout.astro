@@ -1,0 +1,8 @@
+---
+import BlogPost from './BlogPost.astro';
+const props = Astro.props;
+---
+
+<BlogPost title={props.title || "Hemidal"} description={props.description || ""} pubDate={new Date()}>
+  <slot />
+</BlogPost>
