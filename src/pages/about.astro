@@ -1,18 +1,18 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import BlogPost from '../layouts/BlogPost.astro';
 ---
 
-<Layout title="About Us">
-  <main style="max-width: 750px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6;">
-    <h1>About This Site</h1>
-    
-    <p>Welcome! This site was built out of a real, practical need: finding realistic, clean, and space-efficient solutions for living in smaller apartments.</p>
+<BlogPost 
+  title="About Us" 
+  description="About our compact living and home organization project."
+  pubDate={new Date()}
+>
+  <p>Welcome! This site was built out of a real, practical need: finding realistic, clean, and space-efficient solutions for living in smaller apartments.</p>
 
-    <p>When square footage is limited, every layout choice, appliance dimension, and storage fixture counts. We focus on curated ideas, practical home organization tips, and smart home tools that solve actual space constraints without sacrificing design.</p>
+  <p>When square footage is limited, every layout choice, appliance dimension, and storage fixture counts. We focus on curated ideas, practical home organization tips, and smart home tools that solve actual space constraints without sacrificing design.</p>
 
-    <h2>Our Approach</h2>
-    <p>We don't do endless filler text. We look for items and design approaches that serve a clear purpose—whether it's multi-functional furniture, smart appliance placement, or efficient organization systems. Every recommendation is chosen with practical utility in mind.</p>
+  <h2>Our Approach</h2>
+  <p>We don't do endless filler text. We look for items and design approaches that serve a clear purpose—whether it's multi-functional furniture, smart appliance placement, or efficient organization systems. Every recommendation is chosen with practical utility in mind.</p>
 
-    <p>Thanks for visiting, and we hope you find something useful for your home setup!</p>
-  </main>
-</Layout>
+  <p>Thanks for visiting, and we hope you find something useful for your home setup!</p>
+</BlogPost>
