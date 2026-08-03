@@ -1,18 +1,21 @@
 ---
-import BlogPost from '../layouts/BlogPost.astro';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
 ---
 
-<BlogPost 
-  title="About Us" 
-  description="About our compact living and home organization project."
-  pubDate={new Date('2026-07-31')}
->
-  <p>Welcome! This site was built out of a real, practical need: finding realistic, clean, and space-efficient solutions for living in smaller apartments.</p>
-
-  <p>When square footage is limited, every layout choice, appliance dimension, and storage fixture counts. We focus on curated ideas, practical home organization tips, and smart home tools that solve actual space constraints without sacrificing design.</p>
-
-  <h2>Our Approach</h2>
-  <p>We don't do endless filler text. We look for items and design approaches that serve a clear purpose—whether it's multi-functional furniture, smart appliance placement, or efficient organization systems. Every recommendation is chosen with practical utility in mind.</p>
-
-  <p>Thanks for visiting, and we hope you find something useful for your home setup!</p>
-</BlogPost>
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Affiliate Disclosure" description="How Hemidal earns from affiliate links." />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Affiliate Disclosure</h1>
+			<p>Hemidal participates in the Amazon Services LLC Associates Program...</p>
+		</main>
+		<Footer />
+	</body>
+</html>
