@@ -1,49 +1,154 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const featured = posts.slice(0, 3);
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header />
-		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
-		</main>
-		<Footer />
-	</body>
-</html>
+<Layout
+	title="Hemidal — Cozy Home & Gift Guides"
+	description="Coffee stations that fit on one shelf, storage that comes with you when you move, and gift guides for people who actually cook."
+>
+	<section class="hero">
+		<p class="eyebrow">Small kitchens, rented walls</p>
+		<h1>A whole coffee bar<br />fits on one shelf.</h1>
+		<div class="shelf"><span class="tick"></span></div>
+		<p class="lede">
+			Most home decor advice assumes a spare counter and a wall you are allowed
+			to drill into. This one does not. Everything here works in eighteen inches,
+			comes off cleanly, and moves with you.
+		</p>
+	</section>
+
+	<section class="start">
+		<h2>Start here</h2>
+		<ul class="post-list">
+			{
+				featured.map((post) => (
+					<li>
+						<a href={`/blog/${post.id}/`}>
+							<h3>{post.data.title}</h3>
+							<p>{post.data.description}</p>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+		<p class="more"><a href="/blog">Everything else &rarr;</a></p>
+	</section>
+
+	<section class="what">
+		<h2>What this is</h2>
+		<p>
+			Hemidal is about making small spaces feel warm. Not staged, not magazine
+			perfect. Warm the way a room feels when someone actually lives in it and
+			has figured out where things go.
+		</p>
+		<p>
+			Every post says what a thing is bad at, not only what it is good for. A
+			recommendation you cannot trust is worth nothing to either of us.
+		</p>
+		<p class="fine">
+			Posts contain affiliate links. As an Amazon Associate I earn from
+			qualifying purchases. <a href="/disclosure">Full disclosure</a>.
+		</p>
+	</section>
+</Layout>
+
+<style>
+	.hero {
+		padding: 3rem 0 1rem;
+	}
+	.eyebrow {
+		font-size: 0.8rem;
+		letter-spacing: 0.14em;
+		text-transform: uppercase;
+		color: var(--h-sage);
+		margin: 0 0 1rem;
+	}
+	.hero h1 {
+		font-size: clamp(2.2rem, 6vw, 3.6rem);
+		margin: 0;
+	}
+	.shelf {
+		position: relative;
+		height: 1px;
+		background: var(--h-line);
+		margin: 2rem 0 1.5rem;
+	}
+	.tick {
+		position: absolute;
+		left: 0;
+		top: -4px;
+		width: 1px;
+		height: 9px;
+		background: var(--h-clay);
+	}
+	.lede {
+		max-width: 34em;
+		color: var(--h-muted);
+		font-size: 1.05rem;
+	}
+
+	.start {
+		padding: 1rem 0 2rem;
+	}
+	.post-list {
+		list-style: none;
+		padding: 0;
+		margin: 1.5rem 0 0;
+	}
+	.post-list li {
+		border-top: 1px solid var(--h-line);
+	}
+	.post-list li:last-child {
+		border-bottom: 1px solid var(--h-line);
+	}
+	.post-list a {
+		display: block;
+		padding: 1.4rem 0;
+		text-decoration: none;
+		color: inherit;
+	}
+	.post-list h3 {
+		margin: 0 0 0.3rem;
+		font-size: 1.3rem;
+		transition: color 0.15s ease;
+	}
+	.post-list p {
+		margin: 0;
+		color: var(--h-muted);
+		font-size: 0.95rem;
+		max-width: 46em;
+	}
+	.post-list a:hover h3 {
+		color: var(--h-clay);
+	}
+	.more {
+		margin-top: 1.5rem;
+		font-size: 0.95rem;
+	}
+	.more a {
+		text-decoration: none;
+	}
+	.more a:hover {
+		text-decoration: underline;
+	}
+
+	.what {
+		padding: 2rem 0 3rem;
+	}
+	.what p {
+		max-width: 34em;
+		color: var(--h-muted);
+	}
+	.fine {
+		font-size: 0.85rem;
+		margin-top: 2rem;
+		padding-top: 1.2rem;
+		border-top: 1px solid var(--h-line);
+	}
+</style>

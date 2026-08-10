@@ -139,3 +139,106 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+
+/* ============================================
+   HEMIDAL — paleta si tipografia
+   Se adauga la SFARSITUL fisierului global.css
+   ============================================ */
+
+:root {
+	/* Paleta */
+	--h-paper: #F5F2EC;        /* fundal, hartie calda */
+	--h-paper-deep: #EDE8DF;   /* fundal sectiuni */
+	--h-ink: #2B2724;          /* text principal, negru cald */
+	--h-muted: #6E655C;        /* text secundar */
+	--h-clay: #9C6B4F;         /* accent principal, lut stins */
+	--h-sage: #7D8471;         /* accent secundar, salvie */
+	--h-line: #D8D0C4;         /* linii, rafturi */
+
+	/* Suprascrie variabilele sablonului */
+	--accent: #9C6B4F;
+	--accent-dark: #7A5139;
+	--black: 43, 39, 36;
+	--gray: 110, 101, 92;
+	--gray-light: 216, 208, 196;
+	--gray-dark: 43, 39, 36;
+	--gray-gradient: rgba(237, 232, 223, 60%), var(--h-paper);
+	--box-shadow: 0 2px 6px rgba(43, 39, 36, 0.06),
+		0 8px 24px rgba(43, 39, 36, 0.06);
+}
+
+body {
+	font-family: 'Inter', system-ui, sans-serif;
+	background: var(--h-paper);
+	color: var(--h-ink);
+	font-size: 18px;
+	line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Fraunces', Georgia, serif;
+	color: var(--h-ink);
+	font-weight: 600;
+	line-height: 1.15;
+	letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2.6rem; }
+h2 { font-size: 1.9rem; margin-top: 2.2em; }
+h3 { font-size: 1.35rem; margin-top: 1.8em; }
+
+/* Linia de raft sub titlurile de sectiune */
+main h2::after {
+	content: '';
+	display: block;
+	width: 3.5rem;
+	height: 1px;
+	background: var(--h-clay);
+	margin-top: 0.6rem;
+}
+
+a {
+	color: var(--h-clay);
+	text-underline-offset: 3px;
+	text-decoration-thickness: 1px;
+}
+
+a:hover {
+	color: var(--h-ink);
+}
+
+/* Link-urile afiliate din articole se disting subtil */
+main p > a[href*="amazon."] {
+	font-weight: 500;
+	text-decoration-color: var(--h-line);
+}
+
+blockquote {
+	border-left: 2px solid var(--h-sage);
+	background: var(--h-paper-deep);
+	font-style: normal;
+}
+
+hr {
+	border: none;
+	border-top: 1px solid var(--h-line);
+	margin: 3rem 0;
+}
+
+code {
+	background: var(--h-paper-deep);
+	color: var(--h-ink);
+}
+
+header {
+	background: var(--h-paper) !important;
+	box-shadow: none !important;
+	border-bottom: 1px solid var(--h-line);
+}
+
+@media (max-width: 720px) {
+	body { font-size: 17px; }
+	h1 { font-size: 2rem; }
+	h2 { font-size: 1.5rem; }
+}
+
