@@ -2,6 +2,7 @@
 title: 'Cozy Fall Kitchen Decor Ideas for Renters'
 description: 'Warm up a rented kitchen for autumn without drilling, painting or losing your deposit. Small changes with real impact.'
 pubDate: 'Aug 08 2026'
+heroImage: '../../assets/cozy-fall-kitchen-hero.png'
 ---
 
 Rented kitchens are usually the coldest room in the apartment, and not because of the temperature. White cabinets, one overhead light, a laminate counter and nothing you are allowed to change. Autumn is when this gets noticeable, because the light drops and the kitchen goes from bright to grey by four in the afternoon. Everything here is reversible, packs into a box when you move, and does not need a landlord conversation.
@@ -63,6 +64,32 @@ Best applied behind the sink or stove where you get the most visual return for t
 If your kitchen has open shelves or a glass-front cabinet, lining them in a warm wood or stone pattern changes the tone of the whole room. Small area, low cost, comes off cleanly from smooth surfaces.
 
 Skip if your shelves are already wood. You would be covering the good thing with an imitation of it.
+
+## Things that make the room feel warmer to use
+
+### A mug warmer for slow drinkers
+
+![Cream mug on a wooden warming plate beside an open book and a knitted throw](../../assets/mug-warmer-desk-cozy.png)
+
+If you are the kind of person who reheats the same cup three times before finishing it, a small warming plate solves a problem you have probably stopped noticing. It sits under the mug and holds the drink at temperature for hours.
+
+Two things worth knowing. It only works with flat bottomed mugs, so your favourite hand thrown one with an uneven base may not make good contact. And most models have an auto shut off between two and twelve hours, which is a safety feature rather than an inconvenience.
+
+Not for you if you drink coffee quickly. This is entirely for people who let it go cold.
+
+[Check the current listing on Amazon](https://amzn.to/3SDQBCI)
+
+### A french press for slower mornings
+
+![Stainless steel french press half full of coffee beside a cream mug and dried wheat stems](../../assets/french-press-cold-morning.png)
+
+A french press needs no power, no paper filters and almost no counter space, which makes it a genuinely good fit for a small kitchen. It also looks the part on an open shelf in a way a plastic machine does not.
+
+The trade-off is time and cleanup. Four minutes of steeping, then a plunger full of wet grounds that has to be dealt with. If your mornings are rushed this will annoy you within a week.
+
+Check the listing for current capacity. The size that suits one person is very different from the one that suits two.
+
+[Check the current listing on Amazon](https://amzn.to/4zUbpGX)
 
 ## Things you put out for the season
 

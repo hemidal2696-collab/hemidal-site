@@ -2,6 +2,7 @@
 title: 'How to Organize a Coffee Station in a Small Kitchen'
 description: 'A practical order for setting up a coffee station that stays tidy, with storage that fits the way you actually make coffee.'
 pubDate: 'Aug 10 2026'
+heroImage: '../../assets/coffee-station-hero.png'
 ---
 
 Most coffee stations get untidy within a week of being set up, and the reason is almost always the same: they were arranged by how things look rather than by the order you touch them. This is about the sequence. Where each item goes, why, and which storage solves which specific mess.
@@ -28,9 +29,13 @@ Keep a bar mat or absorbent pad under the machine. It catches the drips you do n
 
 ### Zone two: coffee storage
 
+![Three glass jars with bamboo lids on an open shelf beside cream mugs and a plant](../../assets/glass-jars-coffee-beans-shelf.png)
+
 Whatever form your coffee takes, it needs to be visible and reachable with one hand.
 
 **For beans or grounds:** an airtight canister. Glass lets you see the level, ceramic hides the mess. Both work. What does not work is the original bag with a clip, which is why it ends up shoved behind the machine.
+
+[Check the current listing on Amazon](https://amzn.to/4zUbjiz)
 
 **For pods:** either a carousel or a drawer. The carousel is vertical and space-efficient on the counter but tall and visually busy. The drawer slides under the machine and disappears, but raises the machine by an inch or two. Measure your clearance before choosing, and check that the holder matches your pod system, because they are not interchangeable.
 
@@ -66,9 +71,15 @@ Choose a low lip rather than a flat board, so it catches drips and stops jars sl
 
 ### A two-tier riser or small shelf unit
 
+![Overhead view of a tiered wooden coffee station with mugs, jars and a kettle](../../assets/three-tiers-one-footprint.png)
+
 Solves: wasted vertical air above the counter. A small standing shelf doubles usable surface without attaching anything to the wall.
 
 The trade-off: it also creates a second surface for things to accumulate on. Only useful if you are disciplined about what goes on the top tier.
+
+Measure the height under your wall cabinets before ordering. A three tier stand that does not fit under the cabinet is a return.
+
+[Check the current listing on Amazon](https://amzn.to/4xyiBH8)
 
 ### A drawer organizer for the coffee drawer
 

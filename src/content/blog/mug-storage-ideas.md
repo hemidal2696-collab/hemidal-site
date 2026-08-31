@@ -2,6 +2,7 @@
 title: 'Mug Storage Ideas When You Have No Cabinet Space'
 description: 'Get mugs out of the cupboard and onto walls, shelves and hooks, with rental friendly options that need no drilling.'
 pubDate: 'Aug 11 2026'
+heroImage: '../../assets/mug-storage-hero.png'
 ---
 
 Mugs are the worst-behaved item in a small kitchen. They do not stack safely, they are tall enough to waste the shelf above them, and most people own about three times as many as they use. A single cabinet shelf holding eight mugs is one of the least efficient uses of space in the whole kitchen. Here is how to get that shelf back.
@@ -42,11 +43,15 @@ Not suitable for heavy stoneware mugs in quantity. The clamp puts point load on 
 
 ### A rail with S-hooks
 
+![Wooden rail under a shelf holding four cream and terracotta mugs by their handles](../../assets/mug-rail-hooks-small-kitchen.png)
+
 A slim rail mounted along the backsplash or under a cabinet, with hooks for mugs.
 
 This looks the most intentional of the options and scales well, because you add hooks rather than replacing the whole thing. Adhesive rails exist for renters.
 
 The catch on adhesive: it works on smooth tile and sealed surfaces, and it fails across grout lines. Position the rail so the adhesive pads span a flat tile face rather than a joint. On textured or matte-painted walls, it will not hold.
+
+[Check the current listing on Amazon](https://amzn.to/4i9oFB7)
 
 ### Adhesive hooks, individually
 

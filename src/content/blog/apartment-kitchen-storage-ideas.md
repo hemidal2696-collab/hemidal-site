@@ -2,6 +2,7 @@
 title: 'Apartment Kitchen Storage Ideas for Tiny Kitchens'
 description: 'Vertical storage, cabinet risers and removable organizers that add real capacity to a small rented kitchen.'
 pubDate: 'Aug 09 2026'
+heroImage: '../../assets/apartment-storage-hero.png'
 ---
 
 A small kitchen is rarely short on space. It is short on usable space. There is a nine-inch gap above your cabinets doing nothing, twelve inches of dead air above every stack of plates, and the inside of every cabinet door is empty. This is about converting that into storage without a single hole in the wall.
