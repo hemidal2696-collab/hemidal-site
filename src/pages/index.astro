@@ -1,11 +1,26 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
-const featured = posts.slice(0, 3);
+const posts = await getCollection('blog');
+
+// Ordinea manuala. Primul din lista apare mare, sus.
+// Cand adaugi gift guide-urile, muta-le in capul listei.
+const order = [
+	'small-space-coffee-bar-ideas',
+	'coffee-station-organization',
+	'cozy-fall-kitchen-decor-renters',
+	'mug-storage-ideas',
+];
+
+const featured = order
+	.map((slug) => posts.find((p) => p.id === slug || p.slug === slug))
+	.filter(Boolean);
+
+const lead = featured[0];
+const rest = featured.slice(1);
+const slugOf = (p) => p.id ?? p.slug;
 ---
 
 <Layout
@@ -23,25 +38,49 @@ const featured = posts.slice(0, 3);
 		</p>
 	</section>
 
+	{
+		lead && (
+			<a class="lead-card" href={`/blog/${slugOf(lead)}/`}>
+				{lead.data.heroImage && (
+					<Image
+						src={lead.data.heroImage}
+						alt=""
+						width={1000}
+						height={560}
+						loading="eager"
+					/>
+				)}
+				<h2>{lead.data.title}</h2>
+				<p>{lead.data.description}</p>
+			</a>
+		)
+	}
+
 	<section class="start">
-		<h2>Start here</h2>
-		<ul class="post-list">
+		<h2 class="section-title">Start here</h2>
+		<div class="grid">
 			{
-				featured.map((post) => (
-					<li>
-						<a href={`/blog/${post.id}/`}>
-							<h3>{post.data.title}</h3>
-							<p>{post.data.description}</p>
-						</a>
-					</li>
+				rest.map((post) => (
+					<a class="card" href={`/blog/${slugOf(post)}/`}>
+						{post.data.heroImage && (
+							<Image
+								src={post.data.heroImage}
+								alt=""
+								width={600}
+								height={420}
+							/>
+						)}
+						<h3>{post.data.title}</h3>
+						<p>{post.data.description}</p>
+					</a>
 				))
 			}
-		</ul>
+		</div>
 		<p class="more"><a href="/blog">Everything else &rarr;</a></p>
 	</section>
 
 	<section class="what">
-		<h2>What this is</h2>
+		<h2 class="section-title">What this is</h2>
 		<p>
 			Hemidal is about making small spaces feel warm. Not staged, not magazine
 			perfect. Warm the way a room feels when someone actually lives in it and
@@ -59,25 +98,26 @@ const featured = posts.slice(0, 3);
 </Layout>
 
 <style>
+	/* ---------- HERO ---------- */
 	.hero {
-		padding: 3rem 0 1rem;
+		padding: 2.5rem 0 0;
 	}
 	.eyebrow {
-		font-size: 0.8rem;
+		font-size: 0.75rem;
 		letter-spacing: 0.14em;
 		text-transform: uppercase;
 		color: var(--h-sage);
-		margin: 0 0 1rem;
+		margin: 0 0 0.8rem;
 	}
 	.hero h1 {
-		font-size: clamp(2.2rem, 6vw, 3.6rem);
+		font-size: clamp(2rem, 5.5vw, 3.2rem);
 		margin: 0;
 	}
 	.shelf {
 		position: relative;
 		height: 1px;
 		background: var(--h-line);
-		margin: 2rem 0 1.5rem;
+		margin: 1.4rem 0 1.2rem;
 	}
 	.tick {
 		position: absolute;
@@ -90,46 +130,98 @@ const featured = posts.slice(0, 3);
 	.lede {
 		max-width: 34em;
 		color: var(--h-muted);
-		font-size: 1.05rem;
+		font-size: 1rem;
+		margin: 0 0 2.2rem;
 	}
 
-	.start {
-		padding: 1rem 0 2rem;
-	}
-	.post-list {
-		list-style: none;
-		padding: 0;
-		margin: 1.5rem 0 0;
-	}
-	.post-list li {
-		border-top: 1px solid var(--h-line);
-	}
-	.post-list li:last-child {
-		border-bottom: 1px solid var(--h-line);
-	}
-	.post-list a {
+	/* ---------- CARD MARE ---------- */
+	.lead-card {
 		display: block;
-		padding: 1.4rem 0;
 		text-decoration: none;
 		color: inherit;
+		margin-bottom: 3rem;
 	}
-	.post-list h3 {
-		margin: 0 0 0.3rem;
-		font-size: 1.3rem;
-		transition: color 0.15s ease;
+	.lead-card :global(img) {
+		width: 100%;
+		height: auto;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		object-position: center;
+		border-radius: 8px;
+		margin: 0 0 1rem;
+		transition: opacity 0.2s ease;
 	}
-	.post-list p {
+	.lead-card h2 {
+		margin: 0 0 0.4rem;
+		font-size: 1.7rem;
+	}
+	.lead-card h2::after {
+		display: none;
+	}
+	.lead-card p {
 		margin: 0;
 		color: var(--h-muted);
 		font-size: 0.95rem;
-		max-width: 46em;
+		max-width: 40em;
 	}
-	.post-list a:hover h3 {
+	.lead-card:hover :global(img) {
+		opacity: 0.9;
+	}
+	.lead-card:hover h2 {
 		color: var(--h-clay);
 	}
+
+	/* ---------- GRILA ---------- */
+	.section-title {
+		margin-top: 0;
+		margin-bottom: 1.4rem;
+		font-size: 1.5rem;
+	}
+	.start {
+		padding: 0 0 2.5rem;
+	}
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1.6rem;
+	}
+	.card {
+		display: block;
+		text-decoration: none;
+		color: inherit;
+	}
+	.card :global(img) {
+		width: 100%;
+		height: auto;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		object-position: center;
+		border-radius: 6px;
+		margin: 0 0 0.7rem;
+		transition: opacity 0.2s ease;
+	}
+	.card h3 {
+		margin: 0 0 0.3rem;
+		font-size: 1.05rem;
+		line-height: 1.25;
+		transition: color 0.15s ease;
+	}
+	.card p {
+		margin: 0;
+		color: var(--h-muted);
+		font-size: 0.85rem;
+		line-height: 1.5;
+	}
+	.card:hover :global(img) {
+		opacity: 0.9;
+	}
+	.card:hover h3 {
+		color: var(--h-clay);
+	}
+
 	.more {
-		margin-top: 1.5rem;
-		font-size: 0.95rem;
+		margin-top: 1.8rem;
+		font-size: 0.9rem;
 	}
 	.more a {
 		text-decoration: none;
@@ -138,17 +230,37 @@ const featured = posts.slice(0, 3);
 		text-decoration: underline;
 	}
 
+	/* ---------- WHAT THIS IS ---------- */
 	.what {
-		padding: 2rem 0 3rem;
+		padding: 1rem 0 2.5rem;
+		border-top: 1px solid var(--h-line);
 	}
 	.what p {
 		max-width: 34em;
 		color: var(--h-muted);
+		font-size: 0.95rem;
 	}
 	.fine {
-		font-size: 0.85rem;
-		margin-top: 2rem;
-		padding-top: 1.2rem;
+		font-size: 0.82rem;
+		margin-top: 1.6rem;
+		padding-top: 1rem;
 		border-top: 1px solid var(--h-line);
+	}
+
+	/* ---------- MOBIL ---------- */
+	@media (max-width: 720px) {
+		.hero {
+			padding: 1.5rem 0 0;
+		}
+		.grid {
+			grid-template-columns: 1fr;
+			gap: 1.8rem;
+		}
+		.lead-card {
+			margin-bottom: 2.2rem;
+		}
+		.lead-card h2 {
+			font-size: 1.4rem;
+		}
 	}
 </style>
