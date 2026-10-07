@@ -1,19 +1,19 @@
 ---
 title: 'Prime Big Deal Days: Coffee Bar Finds Worth Checking'
-description: 'Small kitchen and coffee bar picks worth watching during Prime Big Deal Days on October 6 and 7, grouped by budget.'
+description: 'Small kitchen and coffee bar picks from Prime Big Deal Days 2026, chosen to be worth having at full price, grouped from small buys to the one worth waiting for a sale.'
 pubDate: 'Sep 29 2026'
 heroImage: '../../assets/prime-deals-hero.png'
 ---
 
-Prime Big Deal Days runs on October 6 and 7, and some early deals are already live. Nobody outside Amazon knows the full list in advance, including me. So this is not a list of discounts. It is a list of things worth having in a small kitchen at full price, which is what makes them worth checking when prices move.
+Prime Big Deal Days 2026 is Amazon's October sale, held on October 6 and 7. This list was never about the discounts, and nobody outside Amazon knew the deals in advance, including me. It is a list of things worth having in a small kitchen at full price. That is why it holds during the sale and after it, and why it is worth checking again when prices move around Black Friday.
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
 ## How to use this list
 
-The sale is Prime member only, and new deals appear through both days. Prices change several times a day, and putting something in your cart does not lock the price.
+Amazon prices change all the time, before, during and after the big sales, and putting something in your cart does not lock the price.
 
-One rule makes the whole event simpler: if something here is discounted, good. If it is not, ask whether you would want it at the normal price. If the answer is no, the discount was the only reason to want it, and that is the worst reason to add an object to a small kitchen.
+One rule makes it simpler: if something here is discounted when you look, good. If it is not, ask whether you would want it at the normal price. If the answer is no, the discount was the only reason to want it, and that is the worst reason to add an object to a small kitchen.
 
 ## Small buys
 
@@ -99,7 +99,7 @@ If you use a pod machine, a drip machine, or a french press, skip this entirely.
 
 ## What I would skip, even on sale
 
-**Espresso machines under a hundred dollars.** A steep discount on a machine that makes disappointing coffee is still a machine that makes disappointing coffee, and it occupies counter space every single day.
+**Espresso machines at the cheap end.** A steep discount on a machine that makes disappointing coffee is still a machine that makes disappointing coffee, and it occupies counter space every single day.
 
 **Large matching organizer sets.** You will fill every piece. Half of them will end up holding things you use twice a year.
 

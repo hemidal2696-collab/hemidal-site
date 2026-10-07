@@ -9,6 +9,15 @@ Mugs are the worst-behaved item in a small kitchen. They do not stack safely, th
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
+## The short version
+
+If you already know you want mugs out of the cupboard:
+
+- [A wall mounted mug rail](https://amzn.to/4i9oFB7), the option that looks most intentional and grows with you.
+- [Narrow floating shelves](https://amzn.to/4gOrJAm), if you can mount something and want one row of mugs at four to five inches deep.
+
+Start with the arithmetic in the next section anyway. It often means buying nothing.
+
 ## First, reduce the number
 
 Before storage, arithmetic. Count your mugs. Now count how many you used this week.
@@ -68,6 +77,8 @@ If you have wall space and are allowed to mount something, a shallow shelf at fo
 Shallow is the point. A deeper shelf will accumulate other things, and then it is not a mug shelf anymore.
 
 For renters, adhesive and tension-mounted shelves exist, but keep the load light and test with one mug for a week before filling it.
+
+[Check the current listing on Amazon](https://amzn.to/4gOrJAm)
 
 ### The inside of a cabinet door
 

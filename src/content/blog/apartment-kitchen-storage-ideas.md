@@ -9,6 +9,13 @@ A small kitchen is rarely short on space. It is short on usable space. There is 
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
+## The short version
+
+Most of this post needs no shopping at all. The two things I link to:
+
+- [A wall mounted mug rail](https://amzn.to/4i9oFB7), the fastest way to free a whole cabinet shelf.
+- [A three tier bamboo organizer](https://amzn.to/4xyiBH8), two extra levels on the counter with nothing attached to the wall.
+
 ## Measure before you buy anything
 
 This sounds obvious and it is the step everyone skips. Small kitchen organizers fail almost entirely because of an inch, not because of a design flaw.

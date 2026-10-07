@@ -9,6 +9,17 @@ Most coffee stations get untidy within a week of being set up, and the reason is
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
+## The short version
+
+The four pieces from this post that I link to, one per problem:
+
+- [Glass jars with bamboo lids](https://amzn.to/4zUbjiz) for zone two, so the coffee is visible and sealed.
+- [A wall mounted mug rail](https://amzn.to/4i9oFB7) for zone three, so four mugs leave the cabinet.
+- [A handheld milk frother](https://amzn.to/46yxJbs) for zone four, if you take milk in your coffee.
+- [A three tier bamboo organizer](https://amzn.to/4xyiBH8) when the counter is the problem, not the wall.
+
+Do the zone exercise below before buying any of them. It decides which ones you actually need.
+
 ## Arrange by the order of your morning
 
 Stand where you stand at 7am and walk through it. Reach for mug. Reach for coffee. Water. Machine. Sugar or milk. Spoon. Done.
@@ -50,6 +61,8 @@ The zone that decides whether the whole thing works. Mugs are bulky and stacking
 **Under-shelf hooks** clamp to an existing shelf and hang mugs below it. Better use of space, but they only work if your shelf lip is within the clamp range. Measure it.
 
 **A narrow rail with S-hooks** mounted on the backsplash does the same job and looks more intentional. Adhesive rails work on smooth tile but fail across grout lines, so span a tile face.
+
+[Check the current listing on Amazon](https://amzn.to/4i9oFB7)
 
 Whichever you choose, put out four mugs, not nine. The rest stay in the cabinet. A display of every mug you own is not storage, it is clutter with a system.
 

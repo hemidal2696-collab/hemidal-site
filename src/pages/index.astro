@@ -3,28 +3,18 @@ import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import { Image } from 'astro:assets';
 
-const posts = await getCollection('blog');
+// Automat: cel mai nou articol apare mare, sus. Urmatoarele trei apar in grila.
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 
-// Ordinea manuala. Primul din lista apare mare, sus.
-// Cand adaugi gift guide-urile, muta-le in capul listei.
-const order = [
-	'small-space-coffee-bar-ideas',
-	'coffee-station-organization',
-	'cozy-fall-kitchen-decor-renters',
-	'mug-storage-ideas',
-];
-
-const featured = order
-	.map((slug) => posts.find((p) => p.id === slug || p.slug === slug))
-	.filter(Boolean);
-
-const lead = featured[0];
-const rest = featured.slice(1);
+const lead = posts[0];
+const rest = posts.slice(1, 4);
 const slugOf = (p) => p.id ?? p.slug;
 ---
 
 <Layout
-	title="Hemidal — Cozy Home & Gift Guides"
+	title="Hemidal | Cozy Home & Gift Guides"
 	description="Coffee stations that fit on one shelf, storage that comes with you when you move, and gift guides for people who actually cook."
 >
 	<section class="hero">

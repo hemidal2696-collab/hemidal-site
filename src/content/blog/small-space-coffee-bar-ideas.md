@@ -9,6 +9,18 @@ The problem with most coffee bar inspiration is that it assumes you have a spare
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
+## The short version
+
+The five pieces from this post that I link to, in the order I would buy them:
+
+- [Narrow floating shelves](https://amzn.to/4gOrJAm), the foundation. Four to six inches deep.
+- [Glass jars with bamboo lids](https://amzn.to/4zUbjiz), one for beans and one for sugar.
+- [A handheld milk frother](https://amzn.to/46yxJbs), foam without a machine. It lives in a drawer.
+- [Glass syrup bottles with pumps](https://amzn.to/4gCDN8Z), only if you actually make flavoured drinks.
+- [A gooseneck electric kettle](https://amzn.to/3UsXzei), only if you make pour over.
+
+The reasoning for each, and what each one is bad at, is below.
+
 ## Start by deciding what the shelf is actually for
 
 Before buying anything, be honest about your morning. If you drink one cup of drip coffee on the way out the door, you do not need a syrup collection. If you make lattes on weekends and instant on weekdays, the shelf has two jobs and needs zoning.

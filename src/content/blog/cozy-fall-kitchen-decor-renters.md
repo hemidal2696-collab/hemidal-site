@@ -9,6 +9,13 @@ Rented kitchens are usually the coldest room in the apartment, and not because o
 
 This post contains affiliate links. If you buy through one of them I may earn a small commission, at no extra cost to you. As an Amazon Associate I earn from qualifying purchases.
 
+## The short version
+
+Most of this post costs little or nothing: warm bulbs, textiles, baskets, dried stems. The two things I link to are for the coffee part of an autumn morning:
+
+- [A mug warmer](https://amzn.to/3SDQBCI), for anyone who lets their coffee go cold.
+- [A french press](https://amzn.to/4zUbpGX), for slower weekend mornings without a machine.
+
 ## The change that matters most is lighting
 
 If you do one thing, do this one. Almost every rental kitchen has a single ceiling fixture with a cold white bulb, and it is the reason the room feels clinical no matter what you put in it.
