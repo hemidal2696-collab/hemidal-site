@@ -2,6 +2,7 @@
 title: 'Coffee Lover Gift Ideas That Fit a Small Kitchen'
 description: 'Gifts for coffee people with no spare counter, sorted by how they actually drink their coffee, with what each one is bad at.'
 pubDate: 'Oct 06 2026'
+updatedDate: 'Oct 24 2026'
 heroImage: '../../assets/coffee-gifts-small-kitchen-hero.png'
 ---
 
@@ -140,3 +141,5 @@ Earlier than feels necessary. Popular kitchen items go in and out of stock befor
 ## If you only buy one
 
 Get the mug warmer. It works with every kind of coffee and every size of kitchen, it takes up less space than a mug, and it solves a problem almost everyone has and almost nobody fixes for themselves. The frother is a better gift for a latte person and the kettle is better for a pour over person, but if you are not sure who you are buying for, the warmer is the safe choice.
+
+If they already own the machine and most of the gadgets, I put together a separate list of [coffee gifts for someone who already has everything](/blog/coffee-gifts-for-someone-who-has-everything/).

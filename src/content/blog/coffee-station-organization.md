@@ -2,6 +2,7 @@
 title: 'How to Organize a Coffee Station in a Small Kitchen'
 description: 'A practical order for setting up a coffee station that stays tidy, with storage that fits the way you actually make coffee.'
 pubDate: 'Aug 10 2026'
+updatedDate: 'Oct 24 2026'
 heroImage: '../../assets/coffee-station-hero.png'
 ---
 
@@ -11,14 +12,17 @@ This post contains affiliate links. If you buy through one of them I may earn a 
 
 ## The short version
 
-The four pieces from this post that I link to, one per problem:
+The pieces from this post that I link to, one per problem:
 
+- [A low-lipped wooden tray](https://www.amazon.com/dp/B086372L8W?tag=hemidal-20) for zone four, and the first thing I would buy. It gives the extras a boundary.
 - [Glass jars with bamboo lids](https://amzn.to/4zUbjiz) for zone two, so the coffee is visible and sealed.
-- [A wall mounted mug rail](https://amzn.to/4i9oFB7) for zone three, so four mugs leave the cabinet.
+- For zone three, one of three ways to get four mugs out of the cabinet: [a mug tree](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20), [screwless under-shelf hooks](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20) or [a wall mounted mug rail](https://amzn.to/4i9oFB7).
 - [A handheld milk frother](https://amzn.to/46yxJbs) for zone four, if you take milk in your coffee.
 - [A three tier bamboo organizer](https://amzn.to/4xyiBH8) when the counter is the problem, not the wall.
 
 Do the zone exercise below before buying any of them. It decides which ones you actually need.
+
+For a December version of the same station, see [Christmas coffee bar ideas for a small apartment](/blog/christmas-coffee-bar-small-apartment/).
 
 ## Arrange by the order of your morning
 
@@ -56,13 +60,17 @@ Whatever form your coffee takes, it needs to be visible and reachable with one h
 
 The zone that decides whether the whole thing works. Mugs are bulky and stacking them in a cabinet means opening a door every morning.
 
-**A mug tree** sits on the surface and holds four to six. Simple, no installation, but it consumes counter footprint.
+**A mug tree** sits on the surface and holds four to six. Simple, no installation, but it consumes counter footprint. The one I link to has six arms on a round base, which covers a normal day plus a guest.
 
-**Under-shelf hooks** clamp to an existing shelf and hang mugs below it. Better use of space, but they only work if your shelf lip is within the clamp range. Measure it.
+[Check the mug tree on Amazon](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20)
+
+**Under-shelf hooks** clamp to an existing shelf and hang mugs below it. Better use of space, but they only work if your shelf lip is within the clamp range. Measure it. The pair I link to needs no screws and fits shelves up to three quarters of an inch thick.
+
+[Check the under-shelf hooks on Amazon](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20)
 
 **A narrow rail with S-hooks** mounted on the backsplash does the same job and looks more intentional. Adhesive rails work on smooth tile but fail across grout lines, so span a tile face.
 
-[Check the current listing on Amazon](https://amzn.to/4i9oFB7)
+[Check the mug rail on Amazon](https://amzn.to/4i9oFB7)
 
 Whichever you choose, put out four mugs, not nine. The rest stay in the cabinet. A display of every mug you own is not storage, it is clutter with a system.
 
@@ -81,6 +89,10 @@ For spoons, a small jar or cup next to the machine beats a drawer every time. It
 Solves: visual clutter, cleaning friction, boundary creep. Lift the tray, wipe underneath, put it back. Everything on it reads as one object rather than seven.
 
 Choose a low lip rather than a flat board, so it catches drips and stops jars sliding.
+
+The one I link to is acacia, about thirteen by seventeen inches, with a raised edge and handles on the short sides. That holds syrups, a sugar jar and a cup of spoons beside a compact machine. Measure the counter space next to your machine first. A tray that hangs over the edge is worse than no tray.
+
+[Check the tray on Amazon](https://www.amazon.com/dp/B086372L8W?tag=hemidal-20)
 
 ### A two-tier riser or small shelf unit
 

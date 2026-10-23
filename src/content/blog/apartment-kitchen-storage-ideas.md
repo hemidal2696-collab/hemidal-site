@@ -2,6 +2,7 @@
 title: 'Apartment Kitchen Storage Ideas for Tiny Kitchens'
 description: 'Vertical storage, cabinet risers and removable organizers that add real capacity to a small rented kitchen.'
 pubDate: 'Aug 09 2026'
+updatedDate: 'Oct 24 2026'
 heroImage: '../../assets/apartment-storage-hero.png'
 ---
 
@@ -11,9 +12,11 @@ This post contains affiliate links. If you buy through one of them I may earn a 
 
 ## The short version
 
-Most of this post needs no shopping at all. The two things I link to:
+Most of this post needs no shopping at all. The four things I link to, in the order I would buy them:
 
+- [An expandable shelf riser](https://www.amazon.com/dp/B07NPWHJ9B?tag=hemidal-20), the highest return item here. Buy one, not a set.
 - [A wall mounted mug rail](https://amzn.to/4i9oFB7), the fastest way to free a whole cabinet shelf.
+- [Flat lidded baskets](https://www.amazon.com/dp/B08GKMFWM7?tag=hemidal-20), for the gap above the cabinets.
 - [A three tier bamboo organizer](https://amzn.to/4xyiBH8), two extra levels on the counter with nothing attached to the wall.
 
 ## Measure before you buy anything
@@ -39,6 +42,10 @@ Best used for plates, bowls and short glasses. Less good for mugs, which are usu
 Look for adjustable or expandable versions if your cabinets are an unusual width. Fixed risers that are two inches too narrow rock every time you take something off them.
 
 The trade-off: risers reduce total shelf height. If you store anything tall in that cabinet, you have just lost the space for it.
+
+The one I link to is the expandable kind: white metal, two sections that slide apart to fit the cabinet, about five and a half inches tall. Check that height against the space above your plates, with room for your hand.
+
+[Check the shelf riser on Amazon](https://www.amazon.com/dp/B07NPWHJ9B?tag=hemidal-20)
 
 ### Stackable can or jar organizers
 
@@ -81,6 +88,10 @@ That gap between your cabinets and the ceiling is real storage for things you us
 Measure the gap before ordering, because it is almost always less than it appears from below. And accept that anything up there is genuinely out of reach, so store only what you can go a month without.
 
 The honest downside: things stored up high on top of kitchen cabinets get greasy. Use lidded baskets or accept that you will wash the contents before use.
+
+The lidded pair I link to is flat woven seagrass, which suits a low gap above the cabinets. Check the height in the listing against your measurement before ordering.
+
+[Check the lidded baskets on Amazon](https://www.amazon.com/dp/B08GKMFWM7?tag=hemidal-20)
 
 ### A narrow rolling cart for a gap
 

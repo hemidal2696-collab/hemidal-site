@@ -2,6 +2,7 @@
 title: 'Mug Storage Ideas When You Have No Cabinet Space'
 description: 'Get mugs out of the cupboard and onto walls, shelves and hooks, with rental friendly options that need no drilling.'
 pubDate: 'Aug 11 2026'
+updatedDate: 'Oct 24 2026'
 heroImage: '../../assets/mug-storage-hero.png'
 ---
 
@@ -13,6 +14,8 @@ This post contains affiliate links. If you buy through one of them I may earn a 
 
 If you already know you want mugs out of the cupboard:
 
+- [A mug tree](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20), six mugs on the counter with nothing to install. The right answer for most people.
+- [Screwless under-shelf hooks](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20), if your shelf edge is up to three quarters of an inch thick.
 - [A wall mounted mug rail](https://amzn.to/4i9oFB7), the option that looks most intentional and grows with you.
 - [Narrow floating shelves](https://amzn.to/4gOrJAm), if you can mount something and want one row of mugs at four to five inches deep.
 
@@ -40,6 +43,10 @@ The trade-off: it consumes counter footprint, which is the scarcest resource in 
 
 Also worth knowing: mugs with unusually thick or small handles do not always fit standard tree arms. Check yours before ordering.
 
+The one I link to has six arms on a round base, enough for the whole working set of most households.
+
+[Check the mug tree on Amazon](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20)
+
 ### Under-shelf hooks
 
 These clamp onto the edge of an existing shelf and hang mugs underneath, using air that was doing nothing.
@@ -49,6 +56,10 @@ The best space efficiency in this list, because it costs no surface at all. The 
 Measure your shelf edge before buying. This is the single most common reason these get returned.
 
 Not suitable for heavy stoneware mugs in quantity. The clamp puts point load on a shelf edge that was not engineered for it.
+
+The pair I link to needs no screws or adhesive and fits shelves up to three quarters of an inch thick. If your shelf edge is thicker, they will not fit, so measure first.
+
+[Check the under-shelf hooks on Amazon](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20)
 
 ### A rail with S-hooks
 

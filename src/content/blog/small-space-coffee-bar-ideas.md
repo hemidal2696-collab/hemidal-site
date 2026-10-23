@@ -2,6 +2,7 @@
 title: 'Small Space Coffee Bar Ideas That Fit on One Shelf'
 description: 'Coffee station setups for tiny kitchens and rentals, built on a single shelf with no drilling and no counter clutter.'
 pubDate: 'Aug 07 2026'
+updatedDate: 'Oct 24 2026'
 heroImage: '../../assets/coffee-bar-hero.png'
 ---
 
@@ -11,15 +12,19 @@ This post contains affiliate links. If you buy through one of them I may earn a 
 
 ## The short version
 
-The five pieces from this post that I link to, in the order I would buy them:
+The pieces from this post that I link to, in the order I would buy them:
 
 - [Narrow floating shelves](https://amzn.to/4gOrJAm), the foundation. Four to six inches deep.
+- [A low-lipped wooden tray](https://www.amazon.com/dp/B086372L8W?tag=hemidal-20), so everything beside the machine reads as one object.
 - [Glass jars with bamboo lids](https://amzn.to/4zUbjiz), one for beans and one for sugar.
+- [A mug tree](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20) or [screwless under-shelf hooks](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20), to get four mugs out of the cupboard.
 - [A handheld milk frother](https://amzn.to/46yxJbs), foam without a machine. It lives in a drawer.
 - [Glass syrup bottles with pumps](https://amzn.to/4gCDN8Z), only if you actually make flavoured drinks.
 - [A gooseneck electric kettle](https://amzn.to/3UsXzei), only if you make pour over.
 
 The reasoning for each, and what each one is bad at, is below.
+
+Setting it up for December? I wrote a separate post on [Christmas coffee bar ideas for a small apartment](/blog/christmas-coffee-bar-small-apartment/).
 
 ## Start by deciding what the shelf is actually for
 
@@ -49,6 +54,10 @@ Pick a tray with a low lip rather than a flat board. The lip catches drips and s
 
 Not for you if: your shelf is under six inches deep. A tray on a narrow shelf wastes the depth you have.
 
+The one I link to is acacia, about thirteen by seventeen inches, with a raised edge and cut-out handles on the short sides. That size belongs on the counter beside the machine, not on the shelf. Like any wood tray, wipe spills off rather than leaving them to soak in.
+
+[Check the tray on Amazon](https://www.amazon.com/dp/B086372L8W?tag=hemidal-20)
+
 ### Glass canisters for beans and sugar
 
 ![Three glass jars with bamboo lids on an open shelf beside cream mugs and a plant](../../assets/glass-jars-coffee-beans-shelf.png)
@@ -68,6 +77,12 @@ Mugs are the item that breaks small kitchens. They are bulky, you own more than 
 A mug tree sits on the surface and holds four to six mugs. Under-shelf hooks screw or clip to the underside of an existing shelf and hold them hanging. Hooks save more surface but only work if your shelf has a lip thin enough to clamp.
 
 Skip this if you only use two mugs. Then they live by the machine and a stand is decoration.
+
+The two I link to: a mug tree with six arms on a round base, and a screwless pair of hooks that slides onto shelves up to three quarters of an inch thick. Measure your shelf edge before ordering the hooks. That one number decides whether they fit.
+
+[Check the mug tree on Amazon](https://www.amazon.com/dp/B0CHVD1NXP?tag=hemidal-20)
+
+[Check the under-shelf hooks on Amazon](https://www.amazon.com/dp/B0D5Z1S38P?tag=hemidal-20)
 
 ### A pod carousel or drawer, if you use pods
 
